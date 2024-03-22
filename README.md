@@ -138,7 +138,7 @@ for(po=180;po>=0;po-=5)
 
 
 ### OUTPUT :
-
+### GRAPH REPRESENTATION OF ANGLE
 <img width="964" alt="image" src="https://github.com/Prasanna-936/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/130341982/b1dbf920-9ddf-4130-bad6-26810e0ec2f4">
 
 
